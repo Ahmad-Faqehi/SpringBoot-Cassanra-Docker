@@ -24,6 +24,7 @@ services:
         -  cassandra
       environment:
         CASS_HOST: cassandra
+      restart: always
       ports:
         -  9003:9003
       networks:
