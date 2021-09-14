@@ -19,7 +19,7 @@
 After install Docker and Docker-Compose on your machine
 Clone the `SpringBoot-Cassanra-Docker` locally. In a terminal, run:
 
-```
+```shell
 git clone https://github.com/Ahmad-Faqehi/SpringBoot-Cassanra-Docker.git
 cd SpringBoot-Cassanra-Docker/
 ```
