@@ -17,11 +17,11 @@
 ### 1. Clone the repo
 
 After install Docker and Docker-Compose on your machine
-Clone the `spring-cassanra-docker` locally. In a terminal, run:
+Clone the `SpringBoot-Cassanra-Docker` locally. In a terminal, run:
 
 ```
-git clone https://github.com/Ahmad-Faqehi/spring-cassanra-docker.git
-cd spring-cassanra-docker/
+git clone https://github.com/Ahmad-Faqehi/SpringBoot-Cassanra-Docker.git
+cd SpringBoot-Cassanra-Docker/
 ```
 * Will find `cql` file in cassandra directory, replace it  with your cql file if had one.
 
@@ -50,7 +50,7 @@ docker-compose down
 
 Ahmad Faqehi - [iAhmad.info](https://iAhmad.info) - alfaqehi775@hotmail.com
 
-Project Link: [https://github.com/Ahmad-Faqehi/spring-cassanra-docker](https://github.com/Ahmad-Faqehi/spring-cassanra-docker)
+Project Link: [https://github.com/Ahmad-Faqehi/SpringBoot-Cassanra-Docker](https://github.com/Ahmad-Faqehi/SpringBoot-Cassanra-Docker)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
